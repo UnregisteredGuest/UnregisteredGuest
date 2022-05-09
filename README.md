@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnregisteredGuest
-- 👀 I’m interested in Linux server administration, network security, and developing custom Linux distros.
+- 👀 I’m interested in Linux server administration, network security, and Linux application developement.
 - 🌱 I’m currently learning all of the above topics.
 - 📫 How to reach me: You don't. (Yet!)
 
