@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @UnregisteredGuest
-- 👀 I’m interested in Linux server administration, network security, and Linux application developement.
+- 👀 I’m interested in Linux server administration, network security, and Linux application developement. And fudge.
 - 🌱 I’m currently learning all of the above topics.
-- 📫 How to reach me: You don't. (Yet!)
+
 
 <!---
 UnregisteredGuest/UnregisteredGuest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
