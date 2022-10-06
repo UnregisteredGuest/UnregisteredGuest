@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @UnregisteredGuest
-- 👀 I’m interested in Linux server administration, network security, and Linux application developement. And fudge.
+- 👀 I’m interested in Linux server administration, network security, and Linux kernel developement. And fudge.
 - 🌱 I’m currently learning all of the above topics.
 
 
