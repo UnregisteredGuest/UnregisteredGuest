@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @UnregisteredGuest
-- 👀 I’m interested in Linux server administration, network security, and Linux kernel developement. And fudge.
-- 🌱 I’m currently learning all of the above topics.
+Hi, I’m @UnregisteredGuest 
+I’m interested in server administration, Linux application development, and network security. And fudge.
 
+Currently, I only know Python, but in the future I'd love to learn Rust for more low level stuff. 
 
-<!---
-UnregisteredGuest/UnregisteredGuest is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Why is there nothing on my GitHub profile? Because I have no ideas. Maybe a GTK GUI for pmbootstrap?
