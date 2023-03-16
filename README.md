@@ -3,4 +3,4 @@ I’m interested in server administration, Linux application development, and ne
 
 Currently, I only know Python, but in the future I'd love to learn Rust for more low level stuff. 
 
-Why is there nothing on my GitHub profile? Because I have no ideas. Maybe a GTK GUI for pmbootstrap?
+Why is there nothing on my GitHub profile? Because I have no ideas. Maybe a GTK GUI for pmbootstrap? Probably the code for the photography website I want to make eventually...
